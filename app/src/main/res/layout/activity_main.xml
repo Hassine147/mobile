@@ -53,7 +53,7 @@
                 android:orientation="horizontal">
 
                 <androidx.appcompat.widget.AppCompatButton
-                    android:id="@+id/StartBtn"
+                    android:id="@+id/startBtn"
                     android:layout_width="wrap_content"
                     android:background="@drawable/orange_bg"
                     style="@android:style/Widget.Button"
